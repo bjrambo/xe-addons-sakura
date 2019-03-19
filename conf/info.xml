@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<addon version="0.2">
+	<title xml:lang="ko">벚꽃날리는 애드온</title>
+	<description xml:lang="ko">
+		사이트에 벚꽃이 흩날리게 해줍니다.
+	</description>
+	<version>1.0.0</version>
+	<date>2019-03-19</date>
+	<author link="https://bjrambo.com">
+		<name xml:lang="ko">BJ람보</name>
+	</author>
+	
+	<extra_vars>
+	</extra_vars>
+</addon>
